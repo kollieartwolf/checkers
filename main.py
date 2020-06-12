@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Created by Carson Wilcox for Professor Szpakowicz's AI class CSI 4106
 # These 
 # Main class runs the game
