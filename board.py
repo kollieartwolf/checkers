@@ -158,7 +158,7 @@ class board(object):
         """
             Prints the game board to stdout
         """
-        print unicode(self)
+        print(self.__unicode__())
         
     def __unicode__(self):
         """

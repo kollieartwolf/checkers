@@ -5,7 +5,7 @@ def is_won(board):
     """
         Returns true if the game has been won
     """
-    return board.gameWon <> board.NOTDONE
+    return board.gameWon != board.NOTDONE
         
 
 def minMax2(board):
